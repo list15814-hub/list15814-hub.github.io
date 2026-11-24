@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://list15814-hub.github.io/broker-lineup/sitemap.xml

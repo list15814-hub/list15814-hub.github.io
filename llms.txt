@@ -1,0 +1,8 @@
+# Broker Lineup
+
+> Index for the Broker Lineup comparison site.
+
+## Broker Lineup
+
+- [Multilingual site index](https://list15814-hub.github.io/broker-lineup/llms.txt)
+- [XML sitemap](https://list15814-hub.github.io/broker-lineup/sitemap.xml)
